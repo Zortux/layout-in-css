@@ -1,40 +1,79 @@
 <!DOCTYPE html>
+
 <html lang="en">
+
   <head>
+
     <meta charset="UTF-8" />
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <title>Basic Layout 7</title>
+
     <link rel="stylesheet" href="../style.css" />
+
     <style>
-      body{
-        display: grid;
-        grid-template-columns: 1fr 2fr 1fr;
-        grid-template-rows: 0.5fr 1fr;
-        grid-template-areas: 
-        'header header footer'
-        'nav main footer'
-            }
-      header {
-        grid-area: header;
-      }
 
-      nav {
-        grid-area: nav;
-      }
+      header{
 
-      main {
-        grid-area: main;
-      }
+            grid-area: header;
 
-      footer {
-        grid-area: footer;
-      }
+        }
+
+        nav{
+
+            grid-area: nav;
+
+        }
+
+        main{
+
+            grid-area: main;
+
+        }
+
+        footer{
+
+            grid-area: footer;
+
+        }
+
+        #basic-layout-7{
+
+          display: grid;
+
+          grid-template-columns: 1fr 1fr 1fr 1fr;
+
+          grid-template-rows: 20% 80% 20%;
+
+          grid-template-areas:
+
+            "nav header header header"
+
+            "nav main main main"
+
+            "nav footer footer footer";
+
+          column-gap: 10px;
+
+          row-gap: 10px;
+
+        }
+
     </style>
+
   </head>
+
   <body id="basic-layout-7">
+
     <header><h1>Basic Layout 7</h1></header>
+
     <nav><a href="../index.html">Terug naar het overzicht</a></nav>
+
     <main></main>
+
     <footer></footer>
+
   </body>
+
 </html>
