@@ -13,7 +13,7 @@ In het college _S02W02 Flow en Layout_ wordt verteld over layout en grids, deze 
 
 ## Doel van deze opdracht
 
-In onderstaande afbeelding zien je 18 verschillende layouts die je met CSS kunt maken. Negen daarvan zijn basic layouts welke je met grid-template-areas en grid-area goed kunt realiseren. Naast deze basic layouts zijn er ook negen advanced layouts waarvoor je iets meer trucage uit je mouw moet schudden. 
+In onderstaande afbeelding zie je 18 verschillende layouts die je met CSS kunt maken. Negen daarvan zijn basic layouts welke je met grid-template-areas en grid-area goed kunt realiseren. Naast deze basic layouts zijn er ook negen advanced layouts waarvoor je iets meer trucage uit je mouw moet schudden. 
 
 ![9 basic en 9 advanced layouts](../src/assets/layouts.png)
 
@@ -81,7 +81,7 @@ Test in een browser of de versie die je net online gezet hebt ook via GitHub pag
 
 ## Definition of Done
 
-Focus sprint 2 - De focus in deze sprint ligt op het maken van een opdracht voor een opdrachtgever en het presenteren van het resultaat. Kennismaken met het vakgebied, communiceren en presenteren. Hoe kom je over bij je opdrachtgever. Durfen.
+Focus sprint 2 - De focus in deze sprint ligt op het maken van een opdracht voor een opdrachtgever en het presenteren van het resultaat. Kennismaken met het vakgebied, communiceren en presenteren. Hoe kom je over bij je opdrachtgever. Durven.
 
 Deze opdracht is done als:
 
